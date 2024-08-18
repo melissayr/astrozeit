@@ -27,8 +27,13 @@ nav ul li a {
     text-decoration: none;
 }
 
+navbar-toggler-icon {
+    background-color: black;
+}
+
+
 .hero {
-    background-image: url("hero_image.jpg"); /* Placeholder for hero image */
+    background-image: url("img/hero_image.jpg"); 
     background-size: cover;
     text-align: center;
     color: white;
